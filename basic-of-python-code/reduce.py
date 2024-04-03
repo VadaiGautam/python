@@ -1,3 +1,6 @@
+'''reduce() is useful when you need to apply a function to an iterable and reduce it to a single cumulative value.'''
+
+
 from functools import reduce
 
 def mysum(x,y):
