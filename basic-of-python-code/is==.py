@@ -53,4 +53,12 @@ b={1,2,3}
 print(a is b) 
 print(a==b)
 
+print(" ")
+
+a= None
+b=None
+print(a is b)
+print(a is None)
+print(a==b)
+
 
